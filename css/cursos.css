@@ -1,0 +1,122 @@
+body {
+    width: 100%;
+    height: 100%;
+    background: blue;
+}
+
+.navegacion {
+    width: 100%;
+    height: 100px;
+    background: red;
+    display: flex;
+}
+
+.perfil {
+    width: 20%;
+
+}
+
+.perfil img {
+    width: 100%;
+    height: 100%;
+}
+
+.busqueda {
+    width: 20%;
+}
+
+.busqueda input {
+    margin-top: 35px;
+    margin-left: 10px;
+    width: 185px;
+}
+
+.buscar {
+    width: 5%;
+}
+
+.buscar input {
+    margin-top: 35px;
+    color: red;
+    background: white;
+
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.cursos {
+    width: 10%;
+    margin-left: 45px;
+}
+
+.cursos img {
+    width: 100%;
+    height: 70%;
+}
+
+.cursos p {
+    display: inline;
+    width: 100%;
+    height: 30%;
+    margin-left: 25%;
+    font-size: 0.5cm;
+}
+
+.videos {
+    width: 10%;
+    margin-left: 20px;
+}
+
+.videos img {
+    width: 100%;
+    height: 70%;
+}
+
+.videos p {
+    display: inline;
+    width: 100%;
+    height: 30%;
+    margin-left: 25%;
+    font-size: 0.5cm;
+}
+
+.biblioteca {
+    width: 10%;
+    margin-left: 10px;
+}
+
+.biblioteca img {
+    width: 100%;
+    height: 70%;
+    margin-left: 7px;
+}
+
+.biblioteca p {
+    display: inline;
+    width: 100%;
+    height: 30%;
+    margin-left: 25%;
+    font-size: 0.5cm;
+}
+
+.donaciones {
+    width: 10%;
+}
+
+.donaciones img {
+    width: 100%;
+    height: 70%;
+    margin-left: 12px;
+}
+
+.donaciones p {
+    display: inline;
+    width: 100%;
+    height: 30%;
+    margin-left: 25%;
+    font-size: 0.5cm;
+}
